@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1040525279148",
+    "project_id": "neca-3d555",
+    "storage_bucket": "neca-3d555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040525279148:android:0ced5afc966f0b3541c409",
+        "android_client_info": {
+          "package_name": "com.shalinaa.necaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040525279148-usmn7m9kefg60cdus5dkh7sfbkl7j2pk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shalinaa.necaapp",
+            "certificate_hash": "ba91aa2a2d747f97ea3621be147ac61412bd33e5"
+          }
+        },
+        {
+          "client_id": "1040525279148-jcl71nmtqkotd9qs8gv5oioafvcpn1lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXIu3NtDyQkdNanjD5PYOPURa2qyGJn0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040525279148-jcl71nmtqkotd9qs8gv5oioafvcpn1lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

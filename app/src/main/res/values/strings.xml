@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Neca  app</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_please_sign_in_to_continue">Please Sign In to continue</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_login_cap">LOGIN</string>
+    <string name="txt_forgot_password">Forgot Password?</string>
+    <string name="txt_don_t_have_an_account">Dont have an account?</string>
+    <string name="txt_sign_in">Sign in</string>
+    <string name="txt_forget_password">Forget Password?</string>
+    <string name="txt_please_fill_the_input_below_here">Please fill the input below here</string>
+    <string name="txt_send">Send</string>
+    <string name="txt_create_account">Create Account</string>
+    <string name="txt_back">Back</string>
+    <string name="txt_fullname">Fullname</string>
+    <string name="txt_confirm_password">Confirm Password</string>
+    <string name="txt_already_have_an_account">Already have an account?</string>
+    <string name="txt_image_view">image view</string>
+    <string name="txt_highlight">Ariana Grande Shares Her Photos From Her Wedding At Home</string>
+    <string name="txt_28_05_21">28/05/21</string>
+    <string name="txt_general">#General</string>
+    <string name="txt_entertainment">#Entertainment</string>
+    <string name="txt_health">#Health</string>
+    <string name="txt_sport">#Sport</string>
+    <string name="txt_content">Ariana Grande has shared a glimpse into her intimate wedding to real estate agent Dalton Gomez earlier this month.She took to Instagram with photos of the big day, captioning it, 5.15.21, including photos of herself in a Vera Wang wedding dress and kissing Gomez, who wore a Tom Ford suit.The two were married in an at-home Montecito, California ceremony, and according to Vogue, Grande walked down the aisle accompanied by her parents Joan Grande and Ed Butera.The couples home was decorated with candles and flower petals hanging from the ceiling.</string>
+    <string name="error_text">Not Empty</string>
+    <string name="error_pass">Password Mismatch</string>
+    <string name="text_user">Users</string>
+    <string name="error_regis">Register Failed</string>
+</resources>
